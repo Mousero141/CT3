@@ -1,0 +1,1674 @@
+# Otázky k SKS - v testu pak je pravidlo: max 5x NEVIM za 0b a pak -2,8b !!!
+# jestli je otázka za 2,8b, tak bude celkem 25 otázek HMMM
+#
+# Vzor:
+# 1. Otázka?
+# odpoved A:1
+# odpoved B
+# odpoved C:1
+# - poznámka (správně jsou A a C, vstup 02)
+
+# Otázky 2019+ a možná i zápočet
+
+1. Optické přepínání paketů je typické tím, že?:0.9:3.0:0.1
+Záhlaví paketového řízení je obvykle odesláno společně s paketem po stejné cestě:1
+Záhlaví paketového řízení je obvykle odesláno společně s paketem, ale po jiné cestě
+neposílá záhlaví paketového řízení, ale pouze data
+
+2. IP přes WDM sítě přenášet?:0.033333333333333326:0.0:0.1
+je možné v jediné variantě
+je možné v několika variantách:1
+není možné
+
+3. Základní myšlenka rozhraní Uk0 ISDN?:-0.033333333333333354:0.0:0.1
+minimalizace interferencí  
+přepínání vysílání - příjem
+na vidlici se vypočítá ozvěna a ta se pak odečte od signálu plus ozvěna:1
+
+4. Požadavek tříd ATM je?:-0.033333333333333354:-1.0:0.1
+logický vztah mezi přijímačem a vysílačem
+spojovací způsob (spojově orientovaný, neorientovaný):1
+kvalita služeb      
+
+5. IP protokol verze 6 oproti verzi 4?:0.2:1.0:0.1
+specifikuje, které IP datagramy je nutné zahodit
+specifikuje, které IP datagramy je možné zahodit dříve než jiné:1
+má pouze nepodstatné rozdíly
+-díky flow label
+
+6. Mezi komponenty pasivní optické síti v distribuční oblasti patří?:-0.13333333333333336:-1.0:0.1
+sváry, zesilovače, optické konektory, splittery
+sváry, přepínače, routery, optické konektory, splittery
+sváry, optické konektory, splittery:1
+
+7. V životním cyklu telekomunikačního produktu "zánik" je klientela?:0.0:0.0:0.1
+rostoucí
+ojedinělá:1
+masová
+
+8. Dokáže správná definice ILP modelu vyřešit sudoku?:0.5:2.0:0.1
+Ne
+ano:1
+tuto problematiku nelze definovat v ILP
+
+9. Jedním ze základních předpokladů pro postupující globalizaci?:0.5:2.0:0.1
+je globálně aplikovaná stabilizační regulace:1
+je rozvoj řízeného trhu
+není globálně aplikovaná stabilizační regulace
+
+10. Zákon zachování toku vyjadřuje?:0.2:1.0:0.1
+Počet jednotek provozu na vstupním a výstupním rozhraní je stejný:1
+Počet jednotek provozu na vstupním a výstupním rozhraní je odlišný
+takový zákon neexistuje
+
+11. Technologie Super-PON umožňuje pokrýt vyšší počet zákazníků díky?:-0.033333333333333354:0.0:0.1
+nastavením DBA algoritmu
+Využití vyšších dělících poměrů:1
+použití P2P pro všechny zákazníky
+
+12. Hlavní myšlenka ADSL?:0.2:1.0:0.1
+přesunutá frekvenční pásma:1
+telefonní hovor je digitalizován v ADSL modemu   
+Data se přenášejí v telefonním kanálu 300-3400Hz
+
+13. Pro ISDN s terminálem jiných sítí je správné pořadí symbolů?:-0.06666666666666668:-1.0:0.1
+terminál, terminálový adaptér, rozhraní S, NT, rozhraní U, vedení, ústředna ISDN:1
+terminál, rozhraní S, NT, rozhraní U, vedení, ústředna ISDN 
+terminál, terminálový adaptér, rozhraní U, NT, vedeni, rozhraní S, ústředna ISDN
+
+14. Typická struktura sítě point to multipoint je?:0.2:1.0:0.1
+polygon
+strom
+hvězda:1
+
+15. Přeslechy NEXT a FEXT?:0.2:1.0:0.1
+Vznikají na stíněných kabelech
+vznikají na dvoužilových kabelech
+vznikají na vícežilových kabelech:1
+
+16. Prezentační vrsta modelu OSI?:0.5:2.0:0.1
+zajišťuje kódování, překlad, konverzi, šifrování a kompresi přenášenych informací:1
+poskytuje přenos a zpracování jednotek TCP segmentů a UDP datagramů
+zajišťuje řízení komunikace mezi odesílatelem a příjemcem
+
+17. Služby IntServ představují?:0.2:1.0:0.1
+QoS rezervuje požadavky síťového provozu po celou dobu trvání přenosu:1
+požadavky na QoS neurčují aplikace, ale zařízení v síti
+pomocí QoS dochází ke klasifikaci jednotlivých přenosů
+
+18. Co je to semipermanentní spojení ve smyslu doplňkové služby ISDN?:0.0:0.0:0.1
+spojení je dočasně přerušeno, oba B kanály jsou obsazeny
+oba B kanály jsou uvolněny, spojení je udržováno jen přes D kanál s možností velmi rychlé aktivace obou B kanálů:1
+oba B kanály i D kanál jsou uvolněny, je možná velmi rychlá aktivace obou B kanálů
+
+19. Signalizace SS7 je?:0.2:1.0:0.1
+vnitroústřednová signalizace
+meziústřednová signalizace:1
+signalizace na účastnickém vedení  
+
+20. GPON rozhraní může mít?:0.5:2.0:0.1
+Jeden T-CONT (přenosový kontejner)
+nepoužívá T-CONT
+více T-CONT (přenosových kontejnerů):1
+
+21. Definice komunikační služby?:0.5:2.0:0.1
+schopnost komunikačního systému poskytovaná k uspokojení účastníků  
+služba nemateriální povahy
+hodnotitelská schopnost komunikačního systému(sítě) poskytovaná k uspokojení účastníků(uživatelů):1
+
+22. Kolik hodnot ONU-ID identifikátoru může mít koncová jednotka přidělených?:-0.06666666666666668:-1.0:0.1
+až 256
+2
+1:1
+
+23. Která technologie vyžaduje, aby se vlnová délka neodchylovala od předepsané vlnové délky?:0.5:2.0:0.1
+DWDM:1
+CWDM i DWDM
+CWDM
+
+24. Hlavní myšlenka echokompenzace u xDSL spočívá v?:0.2:1.0:0.1
+hovorové telefonní pásmo (0-4 kHz) zůstává zachováno, upstream a downstream jsou ve stejném kmitočtovém pásmu 26-1104 kHz rozděleny výpočtem a odečtením echa:1
+základní hovorové pásmo, upstream a downstream jsou ve stejném kmitočtovém pásmu 0-1101 kHz rozděleny výpočtem a odečtením echa
+zachováno zůstává hovorové telefonní pásmo 0-4 kHz, upstream přenosu dat je v pásmu 26-138 kHz, downstream 138-1104 kHz nebo 138-552 kHz (G.lite)
+
+25. Omezení délky sběrnice nejen ISDN je způsobeno především?:0.9999999999999997:4.0:0.1
+výhradně útlumem vedení
+nutnosti dálkově napájet
+nutností reagovat na dotaz v určené době:1
+
+26. Jakým způsobem je realizována pasivní optická sit?:0.5:2.0:0.1
+Koaxiálním kabelem s T konektory
+P2P(Point to Point)
+P2MP(Point to Multipoint):1
+-gpt
+
+27. Pasivní optické sítě jsou specifické tím, že?:0.5:2.0:0.1
+využívají zesilovače
+Maji aktivně napájené komponenty v distribuční síti
+nemají aktivně napájené komponenty v distribuční siti:1
+-gpt
+
+28. Aktivace koncové jednotky ONU v pasivních optických sitich probíhá formou?:0.9:3.0:0.1
+přenosovými kontejnery
+PLOAM zpráv:1
+idle rámců
+
+29. TMN je?:-0.06666666666666668:-1.0:0.1
+koncepčně zvláštní sítí, která však může vyučívat části telekomunikační sítě:1
+koncepčně zvláštní sítí, která nemůže využívat části telekomunikační sítě
+částí telekomunikační sítě
+-gpt
+
+# 2023 otázky, co ještě nebyly
+
+30. Globalizace v elektronických komunikacích?:0.9:3.0:0.1
+není podporována nadnárodním kapitálem
+je podporována nadnárodním kapitálem:1
+je podporována zvyšující se ekonomickou rolí státu
+-gpt
+
+31. DWDM rastr vychází z?:0.0:0.0:0.1
+normalizované pilotní frekvence:1
+kvality spoje
+kvality optického vlákna
+-gpt
+
+32. Optimální řešení ILP formulace může být?:0.13333333333333333:0.0:0.1
+celočíselné číslo:1
+desetinné číslo
+celočíselné i desetinné číslo
+-gpt
+
+33. Hlavní myšlenka ATM je?:0.06666666666666665:-1.0:0.1
+data z různých zdrojů jsou sloučena do jednoho ATM toku:1
+data z různých zdrojů jsou vkládány do rámců ATM
+vytvření konvergované sítě
+-gpt fail
+
+34. Pro paketově orientovanou WDM síť je typické?:0.033333333333333326:0.0:0.1
+Data jsou přenášena odděleně (v jiném kanále) než optická záhlaví
+K datům je připojeno optické záhlaví a labely (značky):1
+K datům je připojeno optické záhlaví
+-gpt
+
+35. Splitter u ADSL je?:0.0:0.0:0.1
+Filtr, který oddělí upstream a downstream
+Filtr, který zajistí rozdělení hovoru a přenosu dat:1
+Název pro zábranu ozvěn
+-gpt fail
+
+36. V modelu TCP/IP odpovídá transportní vrstva?:1.2999999999999998:4.0:0.1
+síťové a transportní vrstvě modelu OSI
+transportní a relační vrstvě modelu OSI
+pouze transportní vrstvě modelu OSI:1
+-gpt fail
+
+37. Služby "DiffServ" představují?:0.2:1.0:0.1
+pomocí QoS dochází ke klasifikaci jednotlivých přenosů:1
+QoS rezervuje požadavky síťového provozu po celou dobu trvání přenosu
+aplikace si samy určují nároky na přenos
+-gpt
+
+38. Spojení typu point to multipoint představuje?:0.2:1.0:0.1
+komunikaci jednoho uživatele s více uživateli:1
+sdílení sítí a výpočetních prostředků
+komunikaci více uživatelů s jedním uživatelem
+-gpt
+
+39. Aktivační proces ONU jednotky?:0.0:0.0:0.1
+Je povinné vždy absolvovat pro všechny ONU:1
+Je povinné pro ONU pouze jiného výrovce
+Není povinný pro žádnou ONU
+-gpt fail
+
+40. Problematika minimální ceny toku je definována jako?:0.2:1.0:0.1
+Cena toku je maximalizována tak, aby uspokojila hodnotu toku ze zdrojového uzlu do cílového uzlu, přičemž provoz na lince může překročit její kapacitu
+Cena toku je minimalizována tak, aby uspokojila hodnotu toku ze zdrojového uzlu do cílového uzlu, přičemž provoz na lince nesmí překročit její kapacitu:1
+Cena toku je minimalizována tak, aby uspokojila hodnotu toku ze zdrojového uzlu do cílového uzlu, přičemž provoz na lince může překročit její kapacitu
+-gpt
+
+# OLD MSTS otázky 2009+, asi 4 otázky zde jsou stejné z rokem 2023
+# MSTS otázky ke zkoušce, které odpřednášel Doc. Ing. Vladislav Škorpil, CSc. na přednášce dne 24. 4. 2009. 
+# 19.05. 2010 přidány další otázky po napsaní zkoušky. Za 100% správnost odpovědí se neručí.
+# 6.5. 2011 doplněno o NOVÉ a vyškrtány otázky červeně co letos nečetl. Velký dík patří Petrovi M.
+# špatné odpovědi budou v 95% generovány gpt3.5, takže pozor na to
+
+41. co je služba?:0.5:2.0:0.1
+Schopnost uspokojit stanovené požadavky:1
+Proces zpracování dat
+Způsob, jakým se lidé dorozumívají a vyměňují informace
+Hodnota akcií na trhu
+
+# 102. definice komunikační služby?:0.0:0.0:0.1
+# Hodnotitelská schopnost (komunikačního systému, respektive sítě poskytované k uspokojení uživatelů/účastníků):1
+# Technické parametry sítě
+# Schopnost připojit se k internetu
+
+42. jak se pozná veřejná služba?:0.5:2.0:0.1
+Je určena/přístupna všem:1
+Je placená
+Vyžaduje zvláštní oprávnění k využití
+
+43. jak se pozná účastnická služba?:0.5:2.0:0.1
+Je určena/přístupna účastníkům (uživatelům):1
+Je dostupná pouze pro veřejnost
+Je placená služba, dostupná všem
+
+44. co je to povinná služba?:0.5:2.0:0.1
+Služba která musí být provozována (nemá o ni zájem, ale musí do ní jít):1
+Služba, kterou využívá většina obyvatelstva
+Služba poskytovaná pouze na základě dobrovolnosti
+
+45. příklad povinné služby?:0.5:2.0:0.1
+Telefonní služba na obydlených samotách:1
+Distribuce elektřiny ve veřejné síti
+Streamingová služba pro zábavu
+
+46. co je telematická služba?:0.2:1.0:0.1
+Nepatří mezi klasické služby, využívá i informatiku:1
+Služba zahrnující pouze telefonii
+Klasická služba bez technologických inovací
+
+47. jak se oficiálně nazývají služby telekomunikační a počítačové?:0.033333333333333326:0.0:0.1
+Telematické:1
+Telekomunikační a informační
+Digitální a datové
+
+48. co je to služba s přídavnou hodnotou?:0.33333333333333337:1.0:0.1
+Plní i jinou službu než základní:1
+Poskytuje služby nad rámec standardního balíčku
+Je levnější než základní služba
+
+49. síť je pro službu?:0.5:2.0:0.1
+Optimálně dimenzovaná:1
+Neomezeně výkonná
+Flexibilní a neohraničená
+
+50. vyjmenujte 4 klasické telekomunikační sítě (4 otázky)?:0.9:3.0:0.1
+Telefonní, veřejná datová, integrovaná telegrafní, ISDN:1
+Kabelová, satelitní, mobilní, optická
+Radiokomunikační, pneumatická, vodovodní, elektrická
+
+51. vyjmenujte základní službu sítě telefonní?:0.033333333333333326:0.0:0.1
+Telefon:1
+Videohovory
+Telefonní automat
+
+52. vyjmenujte základní službu sítě integrované telegrafní?:0.2:1.0:0.1
+Telex (dálnopis):1
+Telegram
+Rádiové spojení
+-old
+
+53. vyjmenujte základní službu sítě veřejné datové?:0.2:1.0:0.1
+Datová:1
+Mobilní telefonie
+Televizní vysílání
+
+54. vyjmenujte základní službu sítě digitálních integrovaných služeb (ISDN)?:0.5:2.0:0.1
+Komutační přenosová 64 kb/s /1920 kb/s, paketová přenosová 16/64 kb/s:1
+Přenosová rychlost 128 kb/s
+Bezdrátový internet
+
+55. vyjmenujte alespoň jednu službu s přidanou hodnotou sítě telefonní (4 možnosti)?:0.2:1.0:0.1
+Datová, telefax, teletext, videotext:1
+Telefonní hovory, SMS zprávy, nákupní poradenství, teletext
+Streamování hudby, virtuální telefonní čísla, videohovory, telefax
+
+56. vyjmenujte alespoň jednu službu s přidanou hodnotou sítě integrované telegrafní?:-0.06666666666666668:-1.0:0.1
+Datová:1
+Videohovor
+Mobilní telefonie
+
+57. vyjmenujte alespoň jednu službu s přidanou hodnotou sítě veřejné datové?:0.2:1.0:0.1
+Teletex, datafax, videotext, zprostředkování zpráv:1
+Cloudové úložiště pro zálohování dat, videohovory, sociální sítě
+Streaming hudby, faxování, kabelová televize, videotext
+
+58. vyjmenujte alespoň jednu službu s přidanou hodnotou sítě digitálních integrovaných služeb (ISDN)?:0.0:0.0:0.1
+Telefon, teletex, datafax, videotex, videokonference, datová:1
+Videohovory, konferenční hovory, videohry, streamování filmů
+E-mail, streaming hudby, videohry, videohovory
+
+59. co je to doplňková uživatelská možnost služby sítě?:0.5:2.0:0.1
+Vylepšení uspokojení požadavků uživatelů základní nebo přídavné služby (přesměrování volání, zobrazení čísla, ...):1
+Dostupnost služby pouze v pracovních dnech
+Možnost změny barvy pozadí uživatelského rozhraní
+
+60. bude analogova technika v souvislosti se službami zcela nahrazena digitální?:-0.06666666666666668:-1.0:0.1
+Ne:1
+Ano
+Není potřeba náhrady, analog je best
+
+61. úzkopásmová služba sahá do?:0.2:1.0:0.1
+20kbit/s pro telefon,64kbit/s pro ISDN:1
+10 Mbit/s pro streaming videa
+100 kbit/s pro e-mailovou komunikaci
+
+62. středněpásmová služba sahá do?:0.5:2.0:0.1
+Desítky až stovky kbit/s (10tky až 100ky kbit/s):1
+1 Gbit/s pro streamování videa ve vysokém rozlišení
+500 kbit/s pro hlasovou komunikaci
+
+63. širokopásmové služby sahají do?:0.5:2.0:0.1
+Jednotky až desítky mbit/s (1tky až 10tky mbit/s):1
+100 bit/s pro textovou komunikaci
+100 Gbit/s pro streamování videa ve vysokém rozlišení
+
+64. nadširokopásmové služby sahají do?:0.0:0.0:0.1
+Stovky megabit/s až gigabity/s (100ky mbit/s az gbit/s):1
+1 kbit/s pro e-mailovou komunikaci
+10 Mbit/s pro hlasovou komunikaci
+ 
+65. vysvětlete hlavní technický rozdíl mezi teletexem a telefaxem?:-0.05:-1.0:0.1
+Teletex má kódy pro jednotlivá písmena a symboly, mezitím telefax snímá předlohu bod po bodu:1
+Telefax používá výhradně analogovou technologii, zatímco teletex využívá digitální signály
+Teletex je určený pouze pro krátké zprávy, zatímco telefax umožňuje přenos dlouhých dokumentů
+-teletex ("a" má nějaký kód, vyšleme kód pod kterým je písmenko "a")
+-telefax (písmenko "a" vznikne tak, že se bod po bodu snímá předloha a přenášejí se tmavší/světlejší/barevné body předlohy)
+
+66. co je to teletext (ten v televizi)?:-0.06666666666666668:-1.0:0.1
+Služba využívající zpětných běhů v televizním signálu:1
+Obrazový systém v televizi
+Služba pro záznam televizních pořadů do archivu
+
+67. kolik skupin faxových koncových zařízení bylo standardizováno?:0.0:0.0:0.1
+Čtyři (4):1
+Tři (3)
+Pět (5)
+
+68. jaká skupina faxových koncových zařízení je dnes pouze používána?:0.9:3.0:0.1
+G3 + g4:1
+G1 + g2
+G5 + G6
+
+69. skupina faxových koncových zařízení byla definována obecněji, co však bylo hlavní?:0.2:1.0:0.1
+Hlavní byla doba přenosu jedné stránky a4:1
+Hlavní byla rychlost přenosu dat
+Hlavní byla cena zařízení
+
+70. co je to videotex?:0.033333333333333326:0.0:0.1
+Služba umožňující styk se vzdálenými databázemi:1
+Typ televizního přenosu
+Formát záznamu na videokazetě
+
+71. má videotex dobrou perspektivu do budoucna?:0.9:3.0:0.1
+Asi NE:1
+Ano, je velmi populární
+Neexistují žádné informace o budoucnosti videotexu, ale určitě ano
+
+72. kde je videotex dnes rozsáhle využíván?:0.2:1.0:0.1
+Ve Francii:1
+V Německu
+Ve Spojených státech
+
+73. zkratka ISDN znamená (abc)?:0.5:2.0:0.1
+Integrované služby digitálních sítí:1
+Informativní služby digitální sítě
+Interaktivní služby datového přenosu
+-old
+
+74. co muselo předcházet integraci služeb?:-0.06666666666666668:-1.0:0.1
+Integrace sítí:1
+Standardizace protokolů
+Redukce uživatelského prostředí
+
+75. idn (integrovaná digitální síť) se jednalo o integraci prostředků?:0.13333333333333333:0.0:0.1
+Spojovacích a přenosových:1
+Distribučních a komunikačních
+Řídících a administrativních
+
+76. na jakém principu došlo k integraci v idn (ISDN)?:-0.06666666666666668:-1.0:0.1
+E1 (rámec):1
+Synchronní digitální komunikace
+Frekvenční multiplex
+
+77. existují národní formy ISDN?:0.9:3.0:0.1
+Ano:1
+Ne
+Pouze v některých zemích
+
+78. euroISDN by mělo platit?:0.5:2.0:0.1
+V celé evropě (ne jen v zemích eu!!):1
+Pouze v zemích EU
+Pouze v eurozóně
+
+79. přenosové služby ISDN?:0.23333333333333334:1.0:0.1
+Zabezpečují přenos dat, odpovídají prvním třem vrstvě osi:1
+Slouží pouze k hlasové komunikaci
+Poskytují pouze přístup na internet
+
+80. standardní služby?:0.5:2.0:0.1
+Jsou služby pro přímou komunikaci mezi uživateli:1
+Zajišťují základní úrovně připojení k síti
+Poskytují pokročilé funkce komunikace
+
+81. vyšší služby?:0.9:3.0:0.1
+Mají možnost využít paměť:1
+Poskytují rychlejší přenos dat
+Zajišťují komunikaci pouze mezi koncovými zařízeními
+
+# 143-150. (8 správných)
+82. pouze jedna z níže uvedených služeb patří mezi telekomunikační služby ISDN (1)?:0.033333333333333326:0.0:0.1
+telefon s šířkou pásma 3,1khz:1
+telefon s šířkou pásma 7,2khz
+telefon s šířkou pásma 5,4khz
+
+83. pouze jedna z níže uvedených služeb patří mezi telekomunikační služby ISDN (2)?:0.9:3.0:0.1
+ISDN 7khz:1
+ISDN 120khz
+ISDN 0.1khz
+
+84. pouze jedna z níže uvedených služeb patří mezi telekomunikační služby ISDN (3)?:-0.13333333333333336:-2.0:0.1
+ISDN teletex s přenosovou rychlostí 64kbit/s (dálnopis):1
+ISDN fax s přenosovou rychlostí 128 kbit/s
+ISDN videohovory s přenosovou rychlostí 256 kbit/s
+
+85. pouze jedna z níže uvedených služeb patří mezi telekomunikační služby ISDN (4)?:0.2:1.0:0.1
+ISDN telefax skupina 4 s přenosovou rychlostí 64kbit/s (g4):1
+ISDN streaming hudby s přenosovou rychlostí 512 kbit/s
+ISDN e-mailové služby s přenosovou rychlostí 64 kbit/s
+
+86. pouze jedna z níže uvedených služeb patří mezi telekomunikační služby ISDN (5)?:0.2:1.0:0.1
+ISDN mixmode – přenos dat s textem a obrazem:1
+ISDN streaming hudby s přenosovou rychlostí 512 kbit/s
+ISDN e-mailové služby s přenosovou rychlostí 64 kbit/s
+
+87. pouze jedna z níže uvedených služeb patří mezi telekomunikační služby ISDN (6)?:0.0:0.0:0.1
+ISDN videotex přenosovou rychlostí 64kbit/s:1
+ISDN fax s přenosovou rychlostí 128 kbit/s
+ISDN videohovory s přenosovou rychlostí 256 kbit/s
+
+88. pouze jedna z níže uvedených služeb patří mezi telekomunikační služby ISDN (7)?:0.2:1.0:0.1
+videotelefonie:1
+ISDN streaming hudby s přenosovou rychlostí 512 kbit/s
+ISDN e-mailové služby s přenosovou rychlostí 64 kbit/s
+
+89. pouze jedna z níže uvedených služeb patří mezi telekomunikační služby ISDN (8)?:-0.033333333333333354:-1.0:0.1
+počítačem podporované komunikační služby:1
+ISDN fax s přenosovou rychlostí 128 kbit/s
+ISDN videohovory s přenosovou rychlostí 256 kbit/s
+
+# tady je toho 21, uff
+90. co patří mezi doplňkové služby ISDN (abc) (1)?:0.2:1.0:0.1
+Upozornění na přicházející volání, přesměrování volání, změna služby během konání spojení:1
+Zvukové efekty během telefonních hovorů, animované smajlíky, chatování
+Videohovory, konferenční hovory, videokonference
+Příjem a odesílání SMS zpráv, posílání e-mailů, prohlížení internetu
+
+91. co patří mezi doplňkové služby ISDN (abc) (2)?:0.5:2.0:0.1
+konference tří účastníků:1
+konference čtyřech či pěti účastníků
+konference osmi až deseti účastníků
+
+92. co patří mezi doplňkové služby ISDN (abc) (3)?:0.25:1.0:0.1
+Jednotné volací číslo, uzavřená skupina uživatelů, změna zástrčky terminálu:1
+Záznam hlasových zpráv, automatická odpověď na příchozí hovory, rozšířené telefonní seznamy
+Zvukové efekty během telefonních hovorů, animované smajlíky, chatování
+Videohovory, konferenční hovory, videokonference
+
+93. co patří mezi doplňkové služby ISDN (abc) (3)?:0.25:1.0:0.1
+Identifikace volajícího účastníka, přepínání externích účastníků, vícenásobné volací číslo:1
+Záznam hlasových zpráv, automatická odpověď na příchozí hovory, rozšířené telefonní seznamy
+Videohovory, konferenční hovory, videokonference
+Příjem a odesílání SMS zpráv, posílání e-mailů, prohlížení internetu
+
+94. co patří mezi doplňkové služby ISDN (abc) (4)?:0.0:0.0:0.1
+Zablokování odchozích spojení, subadresování, informace o tarifování:1
+Záznam hlasových zpráv, automatická odpověď na příchozí hovory, rozšířené telefonní seznamy
+Zvukové efekty během telefonních hovorů, animované smajlíky, chatování
+Videohovory, konferenční hovory, videokonference
+
+95. co patří mezi doplňkové služby ISDN (abc) (5)?:0.5:2.0:0.1
+Přenos volajícího čísla k volajícímu účastníkovi, přenos signalizace mezi účastníky přes d kanál, potlačení přenosu čísla volajícího:1
+Záznam hlasových zpráv, automatická odpověď na příchozí hovory, rozšířené telefonní seznamy
+Videohovory, konferenční hovory, videokonference
+Příjem a odesílání SMS zpráv, posílání e-mailů, prohlížení internetu
+
+96. co patří mezi doplňkové služby ISDN (abc) (6)?:0.0:0.0:0.1
+Semipermanentní spojení, změna terminálu beze změny služby, doklad o spojení:1
+Záznam hlasových zpráv, automatická odpověď na příchozí hovory, rozšířené telefonní seznamy
+Zvukové efekty během telefonních hovorů, animované smajlíky, chatování
+Videohovory, konferenční hovory, videokonference
+
+97. co patří mezi doplňkové služby ISDN (abc) (7)?:0.2:1.0:0.1
+trvalá kontrola ISDN přípoje, seznam přicházejících volání:1
+Záznam hlasových zpráv, automatická odpověď na příchozí hovory
+Videohovory, konferenční hovory
+Příjem a odesílání SMS zpráv, prohlížení internetu
+
+98. pro terminál jiných sítí?:-0.1:-1.0:0.1
+Terminál, terminálový adaptér, rozhraní S, NT, rozhraní U, kroucený pár, ústředna ISDN:1
+Terminál, terminálový adaptér, rozhraní T, NT, rozhraní U, koaxiální kabel, ústředna ISDN
+Telefon, modem, Ethernet, NT, ústředna ISDN
+Počítač, směrovač, Wi-Fi adaptér, NT, rozhraní U, optický kabel, ústředna ISDN
+
+99. D kanál lze kromě přenosu signalizace použít?:0.9:3.0:0.1
+Pro přenos paketu, k přenosu telemetrických signálů a k dálkovému ovládání:1
+Pro přenos hlasu, pro videokonference, pro přenos dat
+Pro přenos e-mailů, pro streamování hudby, pro navigaci GPS
+
+100. vyjmenujte tři možnosti využití doplňkové služby ISDN přesměrování volání (3 otázky)?:-0.13333333333333336:-2.0:0.1
+Trvalé, při nepřihlášení se, při obsazení:1
+Trvalé, pro konferenční hovory, pro videohovory
+Pro automatickou odpověď na příchozí hovory, pro přesměrování na záznam hlasových zpráv, pro hlasovou poštu
+
+101. co znamená doplňková služba ISDN změna zástrčky terminálu?:0.2:1.0:0.1
+Přemístění terminálu beze změny služby:1
+Připojení dalšího terminálu ke stejné lince, změna telefonního čísla
+Aktivace přenosu SMS zpráv na jiný terminál
+ 
+102. co umožní doplňková služba ISDN vícenásobné číslo volajícího?:0.06666666666666665:0.0:0.1
+Výběr konkrétního terminálu:1
+Vícenásobné číslo volajícího je možné pouze s předplatitelskou službou
+Automatická identifikace volajícího a přiřazení korespondujícího terminálu
+
+103. co umožní doplňková služba ISDN subadresování?:0.05:0.0:0.1
+Výběr konkrétního terminálu (mimo jiné):1
+Přesměrování volání na náhodný terminál
+Automatické vytváření konferenčních hovorů
+Posílání hlasových zpráv pomocí faxu
+
+# 178. co je semipermanentní spojení ve smyslu doplňkové služby ISDN?:0.0:0.0:0.1
+# Oba kanály B jsou uvolněny, spojení je uvažováno pouze přes D kanál s možností velmi rychlé aktivace B kanálu:1
+# Obě kanály B jsou trvale uzavřeny, spojení je udržováno pouze přes D kanál
+# Pouze jeden kanál B je k dispozici pro spojení, druhý je rezervován pro záložní použití
+# Obě kanály B jsou využívány současně pro zvýšení propustnosti spojení
+
+104. euroISDN přípoj může mít formu?:0.2:1.0:0.1
+Základní přípoj, primární přípoj:1
+Primární přípoj, sekundární přípoj
+Primární přípoj, terciární přípoj
+Primární přípoj, zálohový přípoj
+
+105. základní přípoj euroISDN může být realizován jako?:0.9:3.0:0.1
+Více terminálový přípoj, přípoj na více pobočkovou ústřednu (pbu):1
+Primární přípoj, sekundární přípoj
+Primární přípoj, terciární přípoj
+Primární přípoj, zálohový přípoj
+
+106. více terminálový přípoj a přípoj na více pobočkovou ústřednu může být?:-0.05:-1.0:0.1
+Mohou být jednoduché, standardní nebo komfortní:1
+Mohou být jednoduché, primární nebo sekundární
+Mohou být primární, terciární nebo záložní
+Mohou být primární, sekundární nebo záložní
+
+107. čím se liší jednoduchý, standardní a komfortní přípoj euroISDN?:0.5:2.0:0.1
+Doplňkovými službami ISDN, které obsahuje (nestačí-li služby standardního, objednám si komfortní, atd.):1
+Počtem dostupných kanálů B pro data
+Rychlostí přenosu dat
+Počtem telefonních linek v rámci přípoje
+
+108. pc ve funkci telefonu v ISDN použít?:0.2:1.0:0.1
+Lze:1
+Ne
+Pouze s vhodným adaptérem
+Pouze pro příchozí hovory
+
+109. fax skupiny 4 lze na síť ISDN připojit?:0.5:2.0:0.1
+Přímo:1
+Ne, pouze přes terminálový adaptér A/B
+Ano, pouze přes terminálový adaptér A/B
+Ne, pouze přes terminálový adaptér BRI
+
+110. fax skupiny 3 lze na síť ISDN připojit?:0.2:1.0:0.1
+Přes terminálový adaptér A/B.:1
+Ano, přímo
+Ne, pouze přes terminálový adaptér BRI
+
+111. nakreslete propojení lan přes ISDN (oblíbená otázka)?:0.5666666666666667:2.0:0.1
+ISDN jako obláček + dvě LANky jako kolečka.:1
+ISDN jako obláček + LANky jako čtverečky.
+ISDN jako obláček + LANky jako hranaté obrazce.
+-za sebou LAN - ISDN - LAN
+ 
+112. nakreslete dálkové napojení pc do lan pomocí ISDN (oblíbená otázka)?:0.0:0.0:0.1
+ISDN jako obláček, na obláček bude napojeno pc (pc jako čtvereček) a na druhé straně kolečko a v něm napsáno LAN:1
+ISDN jako obláček, na nějž jsou připojeny dva počítače (PC jako kruhy) a na druhé straně LAN switch (switch jako obdélník).
+ISDN jako obláček, na kterém je počítač (PC jako trojúhelník) a na druhé straně LAN hub (hub jako trojúhelník).
+-za sebou PC - ISDN - LAN
+ 
+113. terminál, který není ISDN, lze do ISDN připojit pomocí?:0.2:1.0:0.1
+PC adaptační karty nebo terminálového adaptéru.:1
+Notebooku nebo tabletu.
+Mobilního telefonu.
+
+114. pro přípojku  ISDN je správné pořadí symbolů?:0.5:2.0:0.1
+Terminál, rozhraní S, síťové zakončení NT, rozhraní U, kroucený pár, ústředna ISDN.:1
+Terminál, síťové zakončení NT, rozhraní U, rozhraní S, kroucený pár, ústředna ISDN.
+Rozhraní S, terminál, rozhraní U, síťové zakončení NT, kroucený pár, ústředna ISDN.
+
+115. zkratka NT znamená?:0.9999999999999997:4.0:0.1
+Síťové zakončení (network termination):1
+Normativní terminál
+Nepřímé testování
+
+116. službou ISDN s vyšší přenosovou rychlostí se rozumí?:-0.06666666666666668:-1.0:0.1
+H kanál s rychlostí 348 kb/s nebo 1920 kb/s:1
+D kanál s rychlostí 64 kb/s nebo 128 kb/s
+Z kanál s rychlostí 256 kb/s nebo 512 kb/s
+-new
+
+117. co znamená zkratka BRA?:0.5:2.0:0.1
+Základní přípoj (basic rate acces):1
+Pokročilá přenosová rychlost (Broadband Rate Allocation)
+Přímé připojení (Direct Connection)
+
+118. co znamená zkratka PRI?:-0.06666666666666668:-1.0:0.1
+Primární přípoj (primary rate interface):1
+Personální rozhraní (Personalized Remote Interface)
+Přímé rychlostní indukce (Primary Rate Induction)
+
+119. přenosová rychlost B kanálu?:-0.06666666666666668:-1.0:0.1
+Je 64 kb/s:1
+Je 128 kb/s
+Je 256 kb/s
+
+120. liší se přenosová rychlost D kanálu pro BRA a PRA?:0.5:2.0:0.1
+Ano (pro BRA je to 16 kb/s, pro pra 64 kb/s):1
+Ne, mají stejnou přenosovou rychlost
+Ano, ale pouze o malé rozdíly
+
+121. pro co je u ISDN vyhrazena zkratka TE1?:0.033333333333333326:0.0:0.1
+Pro koncové zařízení ISDN:1
+Pro koncové zařízení jiné než ISDN
+Pro terminálový adaptér ISDN
+
+122. pro co je u ISDN vyhrazena zkratka TE2?:-0.06666666666666668:-1.0:0.1
+Pro koncové zařízení jiné než ISDN:1
+Pro terminálový adaptér jiné než ISDN
+
+123. potřebuje TE1 terminálový adaptér?:0.23333333333333334:1.0:0.1
+Ne:1
+Ano
+Pouze v závislosti na použitém zařízení
+
+124. potřebuje TE2 terminálový adaptér?:-0.06666666666666668:-1.0:0.1
+Ano:1
+Ne
+Závisí na typu terminálového zařízen
+
+125. kdy je u ISDN potřeba NT2?:0.2:1.0:0.1
+Když je použit terminál typu pobočková ústředna:1
+Když je potřeba zvýšit rychlost přenosu dat
+Když je ISDN připojeno k analogové telefonní síti
+
+126. co znamená u ISDN zkratka LT?:0.2:1.0:0.1
+Link termination (ukončení linky)
+Line termination (ukončení linky):1
+Local termination (lokální ukončení)
+
+127. co znamená u ISDN zkratka ET?:0.0:0.0:0.1
+Exchange termination:1
+End termination (ukončení konce)
+External termination (externí ukončení)
+
+128. kde byste v síti ISDN úspěšně hledali bloky LT a ET?:0.5333333333333334:2.0:0.1
+V první připojené veřejné ISDN ústředně (spojovací systém):1
+V terminálu zákazníka
+V konečné destinaci sítě ISDN
+
+129. co znamená zkratka 2B+D?:-0.13333333333333336:-2.0:0.1
+Základní přípoj ISDN:1
+Dvě linky pro telefonní hovory a přenos dat
+Dvě telefonní linky a jedna datová linka
+
+130. co znamená zkratka 30B+D?:0.2:1.0:0.1
+Primární přípoj ISDN:1
+Primární přípoj ADSL
+Primární přípoj DSL
+
+131. v čem se liší primární přístup ISDN od E1?:0.5333333333333334:2.0:0.1
+Šíře služeb, komfort:1
+Maximální přenosová rychlost
+Technologie použitá pro přenos dat
+
+132. mezi signální značky ISDN vrstvy 1 patří?:0.9:3.0:0.1
+PH data, PH activate, PH deaktivate, MPH error, MPH activate, MPH deactivate, MPH information:1
+PH data, PH activate, Cph request, Cph confirmation
+Cph request, Cph confirmation, MPH activate, MPH deactivate, MPH information
+
+133. stabilní stavy vrstvy 1 ISDN jsou?:-0.06666666666666668:-1.0:0.1
+Přenos informací není možný, přenos informací je možný:1
+Čekání na potvrzení spojení, Připojení k síti
+Výpadek sítě, Aktivní přenos dat
+
+134. prvky signálních značek vrstvy 1 mohou být typu (1)?:0.16666666666666666:1.0:0.1
+RQ (request), I (implication) UP nebo SP:1
+RQ (request), IP, SQP (sequence pulse)
+SQ (sequence), SQP (sequence pulse), SP
+
+135. prvky signálních značek vrstvy 1 mohou být typu (2)?:0.23333333333333334:1.0:0.1
+IP (identifikátor priority) nebo SP (pole obsahující informační pole):1
+DTMF (dual-tone multi-frequency) nebo GPS (Global Positioning System)
+PSTN (Public Switched Telephone Network) nebo DSL (Digital Subscriber Line)
+
+136. v rozhraní S se základní přípoji nachází mezi?:0.13333333333333333:0.0:0.1
+Mezi TE a NT:1
+Mezi BRI a PRI
+Mezi ISDN a ADSL
+
+137.echo kanál E má přenosovou rychlost?:0.06:0.0:0.1
+16kb/s:1
+64 kb/s
+128 kb/s
+256 kb/s
+512 kb/s
+
+138.mezi základní funkce S0 patří?:0.0:0.0:0.1
+napájení terminálu od nt k te, aktivace rozhraní obousměrně:1
+Přenos dat s rychlostí 1 Gb/s
+Detekce poruch v síti
+Automatická aktualizace software
+Zajištění bezpečnosti sítě
+
+139. konfigurace účastnické přípojky z bodu do bodu je (oblíbená otázka)?:-0.22000000000000003:-2.0:0.1
+Mezi TE a NT může být až 1000 metrů, terminál může být jen jeden:1
+Mezi TE a NT může být až 500 metrů, terminál může být jen jeden
+Mezi TE a NT může být až 2000 metrů, terminál může být jen jeden
+Mezi TE a NT může být až 800 metrů, terminál může být jen jeden
+Mezi TE a NT může být až 1500 metrů, terminál může být jen jeden
+
+140. konfigurace účastnické přípojky krátkou sběrnicí?:0.0:0.0:0.1
+Sběrnice může mít 150 až 200 metrů, počet terminálu až 8:1
+Sběrnice může mít 500 až 1000 metrů, počet terminálů až 16
+Sběrnice může mít 50 až 100 metrů, počet terminálů až 4
+Sběrnice může mít 300 až 400 metrů, počet terminálů až 12
+Sběrnice může mít 100 až 200 metrů, počet terminálů až 6
+
+141. konfigurace účastnické přípojky prodloužené pasivní sběrnice?:0.5:2.0:0.1
+Sběrnice může mít až 500 metrů, maximálně 4 terminály a ty mohou mít mezi sebou maximálně 50 metrů:1
+Sběrnice může mít až 1000 metrů, maximálně 6 terminálů a ty mohou mít mezi sebou maximálně 100 metrů
+Sběrnice může mít až 2000 metrů, maximálně 2 terminály a ty mohou mít mezi sebou maximálně 200 metrů
+Sběrnice může mít až 300 metrů, maximálně 8 terminálů a ty mohou mít mezi sebou maximálně 30 metrů
+Sběrnice může mít až 400 metrů, maximálně 10 terminálů a ty mohou mít mezi sebou maximálně 40 metrů
+
+142. omezení délky sběrnice je způsobeno především (oblíbená otázka)?:0.9:3.0:0.1
+Nutností reagovat na dotaz v určené době:1
+Vysokou teplotou v okolí sběrnice
+Počtem terminálů připojených na sběrnici
+
+143. nakreslete co nejelementárněji sběrnici S0?:0.2:1.0:0.1
+2x2 paralelní vodiče zakončené na obou stranách odporem 100 ohmu – 4 dráty:1
+4x2 paralelní vodiče zakončené na obou stranách odporem 400 ohmu – 8 drátů
+1x2 paralelní vodiče zakončené na obou stranách odporem 200 ohmu – 2 dráty
+
+144. napájení terminálu jde získat?:0.5:2.0:0.1
+Interním napáječem terminálu:1
+Solárními panely
+Bateriemi z vnějšku
+
+145. interní napáječ terminálu je typický pro?:0.23333333333333334:1.0:0.1
+PC:1
+Počítačové servery
+Telekomunikační terminály
+-gpt si myslí, že to jsou Telekomunikační terminály
+
+146. jaké napájení terminálu je použito v případě výpadku proudu?:0.0:0.0:0.1
+Napájení z ústředny přes NT a rozhraní S0 fantomním způsobem:1
+Napájení z baterie přímo připojené k terminálu
+Solární napájení prostřednictvím fotovoltaických panelů
+Napájení ze sítě pomocí záložního generátoru
+
+147. napájení terminálu lze získat?:0.5:2.0:0.1
+Ze zdroje jiného terminálu jsme přijali pár vodičů jednotkou NT:1
+Záložním generátorem umístěným v terminálu
+Napájením z vodního toku nebo větrné energie
+Fotovoltaickými panely instalovanými na střeše budovy
+
+148. napájení terminálu lze získat?:0.0:0.0:0.1
+Z ústředny přes NT a rozhranní S0 fantomním způsobem (ústředny jsou napájeny ab dráty a to napájení je tam vyvedeno fantomním způsobem pomocí transformátorů):1
+Přes wifi síť, která přenáší elektrickou energii bezdrátově
+Napájením z větrné elektrárny umístěné na střeše budovy
+Solárními panely umístěnými na stěně budovy
+
+149. napájení terminálu lze získat?:0.5:2.0:0.1
+Ze síťového napáječe NT fantomním způsobem:1
+Připojením do počítačové sítě
+Prostřednictvím solárních panelů
+
+150. napájení terminálu lze získat?:0.2:1.0:0.1
+Ze zdroje jiného terminálu přes přídavný pár vodičů a jednotku NT:1
+Ze solárního panelu a baterie
+Z vlastního zdroje energie v terminálu
+
+151. napájení terminálu lze získat?:0.5:2.0:0.1
+Z ústředny přes NT a rozhraní S0 fantomním způsobem:1
+Z baterie v terminálu
+Ze síťového napájení přímo do terminálu
+
+152. liší se rámec na rozhranní s0 podle směru přenosu?:0.9:3.0:0.1
+Ano (je jiný rámec NT do TE, a jiný TE do NT):1
+Ne, rámec je vždy stejný bez ohledu na směr přenosu
+Rámec se liší pouze v digitálních sítích, ale v analogových je stejný
+
+153. co je to inverzní modifikovaný způsob vytváření AMI kódu?:0.0:0.0:0.1
+Prvek s úrovní H je přenášen signálem s napětím 0 V, prvku s úrovní L odpovídá střídavě ±U:1
+Každý prvek kódu je modifikován tak, že přechody mezi úrovněmi jsou vyhlazeny
+Kód vytváří periodické zvukové signály odpovídající kódovaným datům
+
+154. jak je zajištěna synchronizace rámce na rozhranní S0?:0.2:1.0:0.1
+Synchronizační bit F narušuje bipolaritu a je vždy vyjádřen napětím U různým od 0. Další narušení bipolarity musí být nejpozději 14 bitů po bitu F:1
+Rámec je synchronizován pomocí atomových hodin v ústředně
+Synchronizace je automaticky řízena interním oscilátorem v terminálu
+
+155. narušení bipolarity u rámce na rozhraní S0?:0.0:0.0:0.1
+Se vyrovná bitem L s napětím opačné polarity:1
+Se vyrovná bitem H s napětím opačné polarity
+Se vyrovná bitem L s nulovým napětím
+
+156. Ve směru NT k TE se všechny bity B, D vyrovnávají?:0.5:2.0:0.1
+Jediným bitem:1
+Každým bitem zvlášť
+Automatickým vyrovnáním bez použití bitů
+
+157. Ve směru TE k NT se každá skupina bitů B, D vyrovná?:0.2:1.0:0.1
+Zvláštním bitem (každý terminál má svoje vlastní B a D bity a tak si je musí sám vyrovnat. Nikdo jiný to ze něho neudělá.):1
+Automatickým vyrovnáním bez použití bitů
+Zvláštním bitem, který je sdílen mezi všemi terminály
+
+158. jaký mechanizmus je užit k řízení přístup na D kanál ?:-0.06666666666666668:-1.0:0.1
+Echo bity e:1
+Token passing
+Time division multiplexing
+
+159. myšlenka echo kanálu je?:0.5:2.0:0.1
+Jednotka NT vrátí logickou hodnotu přijatého bitu v kanálu D ve směru od TE do NT v kanálu E v opačném směru (příjme D a přepne ho zpátky v E):1
+Jednotka TE posílá zpět všechny bity, které přijala od NT
+Echo kanál slouží k šifrování a dešifrování přenášených dat
+
+160. kanál E je součástí rámce?:0.2:1.0:0.1
+Od NT k TE:1
+Od TE k NT
+Od NT k NT
+
+161. jak je zohledněna reakce terminálu ISDN na stav u kanálu d?:0.9:3.0:0.1
+Posunem rámce ve směru TE do NT o dva bity (2 bity ofset):1
+Posunem rámce ve směru NT do TE o dva bity (2 bity ofset)
+Posunem rámce ve směru TE do NT o jeden bit (1 bit ofset)
+
+162. když se kanálem D nepřenášejí informace, tak?:-0.13333333333333336:-2.0:0.1
+Jsou jeho bity D nastaveny na úrovni H a NT vrací pak E také v úrovni H:1
+Jsou jeho bity D nastaveny na úrovni L a NT vrací pak E také v úrovni L
+Jsou jeho bity D nastaveny na úrovni H a NT vrací pak E také v úrovni L
+
+163. když začne terminál požadovat přístup na společný D kanál tak?:-0.06666666666666668:-1.0:0.1
+Začne sledovat klidový stav kanálu D:1
+Začne vysílat na kanál D žádostový rámec
+Začne vysílat na kanál E žádostový rámec
+
+164. kdy se považuje kanál za volný?:0.033333333333333326:0.0:0.1
+Když stav E rovná se D v úrovni H, trvá alespoň 8 bitů za sebou jdoucích:1
+Když stav E rovná se D v úrovni L, trvá alespoň 8 bitů za sebou jdoucích
+Když stav E rovná se D v úrovni H, trvá alespoň 4 bitů za sebou jdoucích
+
+165. mezi základní funkce rozhraní S0 patří (1)?:0.5:2.0:0.1
+Transparentní přenos dvou informačních kanálu D až do prvního duplexu, přenos signalizačního kanálu D obousměrně:1
+Přenos obrazu a zvuku, řízení osvětlení a klimatizace
+Přenos dat do místní sítě, přístup k internetu
+
+166. mezi základní funkce rozhraní S0 patří (2)?:0.2:1.0:0.1
+Zajištění rámcové synchronizace od P k TE, zajištění bitové synchronizace od P k TE:1
+Synchronizace hodin v počítači, vyhledávání a aktualizace softwaru
+Řízení stavu systému, monitorování spotřeby energie
+
+167. mezi základní funkce rozhraní S0 patří (3)?:0.5:2.0:0.1
+Zajištění echo kanálu E od P k TE, zajištění napájení od TE k NT:1
+Řízení teploty prostředí, automatické zálohování dat
+Monitorování zabezpečení objektu, odesílání upozornění na mobilní telefon
+
+168. nejdříve vysílám paket?:0.23333333333333334:1.0:0.1
+169. signalizační vyšší priorita, 2. signalizační nižší priorita, 3. datové vyšší priorita, 4. datové nižší priorita:1
+170. datové vyšší priorita, 2. datové nižší priorita1, 3, signalizační vyšší priorita, 4. signalizační nižší priorita
+171. signalizační vyšší priorita, 2. datové vyšší priorita, 3. signalizační nižší priorita, 4. datové nižší priorita
+
+172. priorita je paketu přidělena?:0.5:2.0:0.1
+Nejprve vyšší, potom nižší:1
+Nejprve nižší, potom vyšší
+Priorita se nemění
+Priorita je přidělena náhodně
+
+173. mezi nt a ústřednou probíhá signalizace?:0.06:0.0:0.1
+DSS1:1
+ISDN
+PRI
+SIP
+QSIG
+
+174. mezi ústřednami probíhá signalizace?:0.2:1.0:0.1
+SS7:1
+PRI
+SIP
+QSIG
+ISDN
+
+175. čím se mění stavy terminálů?:0.2:1.0:0.1
+Událostmi (příklady událostí - terminál napájení, příjem info 0, uplynutí časové kontroly, atd.):1
+Stavovou logikou
+Síťovým provozem
+Datovými toky
+Digitálním přenosovým rozhraním
+
+176. mezi stavy terminálu patří?:-0.2:-4.0:0.1
+Neaktivní, připravený, deaktivovaný, čekání na signál, očekávající aktivaci, aktivovaný:1
+Aktivní, připojený, odpojený, čekání na potvrzení, spící, vyřazený
+Funkční, nefunkční, čekající na servis, ve výpadku, zablokovaný
+Přijímající, odesílající, čekající na spojení, ve stavu hovoru, mimo provoz, v režimu spánku
+
+177. mezi stavy terminálu nepatří?:0.5:2.0:0.1
+Napájení:1
+Aktivace
+Připravení
+Čekání na signál
+
+178. mezi stavy NT nepatří?:0.033333333333333326:0.0:0.1
+vypnuté:1
+Připojené
+Přehřáté
+
+179. čím se mění stavy NT?:0.2:1.0:0.1
+událostmi:1
+Stiskem tlačítka
+Podle aktuálního počasí
+
+180. příklad události terminálu (NT)?:0.5:2.0:0.1
+Terminál napájený, příjem info s0, uplynutí časové kontroly, a další:1
+Příjem televizního signálu, Odeslání e-mailu
+Vytáčení telefonního čísla, Připojení k síti WiFi
+-old
+
+181. příklad události NT?:0.2:1.0:0.1
+Uplynutí časové kontroly:1
+Příjem televizního signálu
+Odeslání faxu
+Změna teploty v místnosti
+Odeslání textové zprávy
+
+182. rozhraní S je?:0.23333333333333334:1.0:0.1
+4drátové:1
+2-drátové
+Bezdrátové
+
+183. rozhraní U je?:0.5:2.0:0.1
+2drátové:1
+4-drátové
+Bezdrátové
+
+184. k čemu slouží rozhraní U?:0.9333333333333335:3.0:0.1
+K přenosu digitálního signálu galvanicky odděleným 2-drátovým účastnickým vedením:1
+K přenosu televizního signálu
+K přenosu zvukových zpráv
+
+185. přenos digitálního signálu galvanicky odděleným 2-drátovým účastnickým vedením vyžaduje (1)?:0.13333333333333333:0.0:0.1
+Vytvoření možnosti obousměrného datového přenosu, aby přenášený signál prakticky neobsahoval žádné ss složku:1
+Minimalizaci zpoždění signálu a zvýšení kmitočtové stability
+Zajištění synchronizace signálu s interním hodinovým signálem centrálního systému
+-old
+
+186. přenos digitálního signálu galvanicky odděleným 2-drátovým účastnickým vedením vyžaduje (2)?:-0.06666666666666668:-1.0:0.1
+Aby byla minimalizovaná šířka výkonového spektra, dostatečný informační obsah pro obvody obnovy taktu:1
+Vyšší úroveň šumu v signálu pro zlepšení jeho odolnosti vůči rušení
+Použití složitějších enkódovacích technik pro zvýšení rychlosti přenosu dat
+-old a druhá část new zároveň, hmmm
+
+187. přenos digitálního signálu galvanicky odděleným 2-drátovým účastnickým vedením vyžaduje (3)?:0.06666666666666665:-1.0:0.1
+Minimální mezisymbolové interference, respektování velkého kmitočtově závislého útlumu vedení:1
+Použití vícekanálového multiplexování pro zvýšení propustnosti vedení
+Implementaci analogových modulačních technik pro zlepšení kvality signálu
+-old/new, hmmm
+
+188. popište hlavní myšlenku kódu 4B3T?:0.9:3.0:0.1
+Quadbity jsou vyjádřeny trojitými skupinami impulsů, snaha o nulovou disparitou (pro odstranění stejnosměrné složky):1
+Bitové dvojice jsou kódovány do trojice impulzů, které reprezentují jednotlivé hodnoty bitů
+Každá čtveřice bitů je reprezentována kombinací 4 různých trojic impulzů
+Impulzy jsou přenášeny s různými amplitudami, aby bylo dosaženo zvýšené odolnosti proti šumu
+
+189. hlavní myšlenku kódu 2B1Q?:0.9:3.0:0.1
+Dibity jsou vyjádřeny napětím s označením +2, +1, -1, -2:1
+Bitové dvojice jsou kódovány pomocí dvou úrovní napětí, které reprezentují hodnoty bitů
+Každé tři bity jsou kódovány pomocí jednoho ze čtyř různých úrovní napětí
+Napěťové úrovně jsou použity k minimalizaci vlivu šumu a zkreslení signálu
+
+190. k čemu slouží skrambler?:0.033333333333333326:0.0:0.1
+K vytvoření pseudonáhodného charakteru signálu:1
+K redukci zpoždění signálu
+K dekódování zakódovaných dat
+
+191. skrambler je tvořen?:0.033333333333333326:0.0:0.1
+Řetězcem posuvných registrů se zpětnými vazbami:1
+Pamětí s pevně stanovenou sekvencí dat
+Optickými vlákny s různými indexy lomu
+
+192. základní myšlenka rozhraními UP0?:0.0:0.0:0.1
+Během trvání rámce se vysílá i přijímá (ping-pong):1
+Rozhraní, které umožňuje pouze jednosměrnou komunikaci
+Rozhraní, které umožňuje propojení více zařízení s jedním spojením
+
+193. poloduplex je u ISDN?:0.033333333333333326:0.0:0.1
+Jen mezi rozhraním U a ústřednou:1
+Jen mezi rozhraním S a ústřednou
+Pouze mezi dvěma ústřednami
+
+194. základní myšlenka rozhraní uk0?:0.2:1.0:0.1
+Na dibit se vypočítá ozvěna a ta se pak odečte od signálu + ozvěna:1
+Na nibit se vypočítá ozvěna a ta se pak odečte od signálu + ozvěna
+Na tribit se vypočítá ozvěna a ta se pak odečte od signálu + ozvěna
+
+195. kompenzace echa se děje?:0.0:0.0:0.1
+Pomocí digitálního filtru:1
+Pomocí analogového filtru
+Pomocí fyzické izolace
+
+196. buňka atm má?:0.5:2.0:0.1
+53 bajtů - z toho 5 bajtů záhlaví + 48 bajtů informační pole:1
+48 bajtů - z toho 5 bajtů záhlaví + 43 bajtů informační pole
+64 bajtů - z toho 8 bajtů záhlaví + 56 bajtů informační pole
+
+197. jaký je rozdíl mezi buňkou a paketem?:-0.13333333333333336:-2.0:0.1
+Buňka má konstantní délku, pakety mohou mít proměnou délku:1
+Buňka může mít proměnlivou délku, zatímco pakety mají konstantní délku
+Buňka i paket mají konstantní délku
+
+# 296. hlavní myšlenka ATM je?:0.0:0.0:0.1
+# Data z různých zdrojů jsou sloučena do jednoho ATM toku:1
+# Každý zdroj dat má svůj vlastní ATM tok
+# Data jsou přenášena pomocí optických kabelů
+
+198. jaký je vztah mezi ATM a ISDN?:0.0:0.0:0.1
+ATM je tzv. širokopásmové ISDN neboli BISDN:1
+ATM je používáno pouze pro hlasové hovory v ISDN
+ATM je alternativní technologií k ISDN
+
+199. požadavek tříd ATM je (1)?:0.33333333333333337:1.0:0.1
+časový vztah mezi přijímačem a vysílačem, přenosová rychlost konstantní nebo proměnná:1
+Přenosová rychlost vždy 10 Gbit/s, podpora pouze pro hlasový provoz
+Požadavek na integritu dat, nezávislost na typu médií pro přenos dat
+
+200.požadavek tříd ATM je (2)?:0.2:1.0:0.1
+spojovací způsob spojově orientovaný, spojovací způsob spojově neorientovaný:1
+Garance minimální přenosové rychlosti, absence kontroly chyb
+Prioritizace datových toků podle jejich důležitosti, pevně stanovená rychlost pro všechny uživatele
+
+201. typ atm adaptační vrstvy?:0.033333333333333326:0.0:0.1
+1 až 5:1
+3 až 5
+1 až 3
+
+202. co je v terminologii ATM VPI?:0.2:1.0:0.1
+Identifikátor virtuální cesty:1
+Číslo spojení v linkové vrstvě
+Označení délky trasy ve fyzické síti
+Počet přenesených datových jednotek
+
+203. co je v terminologii ATM VCI?:0.5:2.0:0.1
+Identifikátor virtuálního kanálu:1
+Číslo spojení v linkové vrstvě
+Označení délky trasy ve fyzické síti
+Počet přenesených datových jednotek
+
+204. jak je zabezpečeno záhlaví ATM buňky?:0.0:0.0:0.1
+Sudou paritou
+Není zajištěno
+Pomocí hec v pátém bajtu:1
+-ale jen záhlaví
+
+205. proč je cesta a kanál virtuální?:0.5:2.0:0.1
+Není předem určena a vytváří se podle stavu v síti:1
+Má pevně stanovený směr a kapacitu
+Je vytvářena pouze pro specifické typy datových přenosů
+Je fyzicky propojena s jinými sítěmi
+
+206. hlavní myšlenka vytváření buňkového toku ATM?:0.5:2.0:0.1
+Buňky z informačních zdrojů čekají ve frontě, do toku ATM jsou zařazovány na místa prázdných buněk nebo podle identifikátoru priority:1
+Buňky jsou přenášeny po optických kabelech
+Každá buňka může obsahovat různé typy dat
+Buňky jsou posílány v nekontrolovaném pořadí
+
+207. sítový prvek ATM je?:0.5:2.0:0.1
+ústředna ATM, digitální rozvaděč ATM, koncentrátor:1
+Optický switch, Router, Rozbočovač Ethernetu, Síťový adaptér pro WiFi
+Dálniční značka, Anténa pro mobilní telefonii, Satelitní anténa, Elektrická zásuvka
+Pevná linka telefonní sítě, Bezdrátová přístupová bod, Modem pro připojení k internetu, Televizní set-top box
+
+208. v digitálním rozvaděči ATM?:-0.1:-2.0:0.1
+VPI se může měnit,VCI zůstává:1
+VPI se nemůže měnit, VCI se mění
+VPI i VCI zůstávají stejné
+VPI i VCI se mohou měnit
+
+209. mezi možnosti přenosu ATM patří?:0.5:2.0:0.1
+přímý přenos ATM, synchronní mapování do rámce VC4, nesynchronní mapování do rámce VC4 (otazník):1
+Asynchronní mapování do rámce VC12
+Synchronní mapování do rámce VC6
+-old
+
+210. mezi možnosti přenosu ATM nepatří?:-0.033333333333333354:0.0:0.1
+Synchronní mapování do rámce VT3:1
+přímý přenos ATM
+synchronní mapování do rámce VC4
+
+211. hlavní myšlenka nesynchronní mapování buněk do rámce VC4 je (oblíbená otázka)?:-0.06666666666666668:-1.0:0.1
+Že bajt H4-POH udává kolik bajtů je od začátku první buňky ATM v příslušném řádku:1
+Bajt D1-POH udává počet buněk v rámci VC4
+Každý VC4 rámec obsahuje přesně 64 buňek
+-new
+
+212. hlavní myšlenka synchronní mapování buněk do rámce VC4 je (oblíbená otázka)?:0.5:2.0:0.1
+První buňka je vložena hned za bajty J1.:1
+První buňka v rámci VC4 je vždy signalizována speciálním bajtem
+Každý VC4 rámec obsahuje přesně 32 buňek
+-new
+
+213. princip spojování ATM buněk?:-0.06666666666666668:-1.0:0.1
+původní záhlaví je nahrazeno novým pro spojovací pole a podle něho je každá buňka přenesena ze vstupu na vystup.:1
+Každá buňka ATM obsahuje příznak, který indikuje, zda má být spojena s předchozí nebo následující buňkou
+Při spojování buněk je přiřazováno číslo virtuálního okruhu (VCI)
+-new
+
+214. přenosové rychlosti ATM (napsat)?:-0.13333333333333336:-2.0:0.1
+155 Mb/s, 622 Mb/s, 2,4 Gb/s, 10 Gb/s:1
+1 Mb/s, 10 Mb/s, 100 Mb/s, 1 Gb/s
+56 Kb/s, 128 Kb/s, 512 Kb/s, 1 Mb/s
+-new
+
+215. je ve sdělovacím řazení nutná paměť?:-0.06666666666666668:-1.0:0.1
+Ano (je někdy potřeba počkat, když je zablokovaná cesta):1
+Ne (při sdělovacím řazení je vždy dostatek volné kapacity)
+Ne (při sdělovacím řazení není vždy dostatek volné kapacity)
+
+216. virtuální cesta VPI je součástí virtuálního kanálu VCI?:0.2:1.0:0.1
+Ne:1
+Ano, ale pouze ve speciálních případech
+Ano, ale VPI je zcela odlišná od VCI
+
+217. virtuální kanál VCI je částí virtuální cesty VPI?:0.13333333333333333:0.0:0.1
+Ano:1
+Ano, ale pouze ve speciálních případech
+Ne, VCI je zcela odlišná od VPI
+
+218. vrstvový model ATM - napište názvy vrstev?:0.2:1.0:0.1
+fyzická, ATM vrstva, ATM adaptační, vyšší:1
+Fyzická, linková, síťová, transportní
+Fyzická, síťová, transportní, aplikace
+Fyzická, mediální, řídící, uživatelská
+
+219. se záhlavím buňky ATM se pracuje ve vrstvě?:0.5:2.0:0.1
+ATM vrstva:1
+Fyzická vrstva
+Síťová vrstva
+Aplikační vrstva
+
+220. ATM AAL slouží pro?:0.15000000000000002:0.0:0.1
+Rozdělení uživatelské informace na části <= 48b:1
+Kompresi dat
+Šifrování dat
+Přidávání redundantních bitů
+-old
+
+221. podle čeho se liší vytvoření struktury informačního pole buňky ATM?:0.0:0.0:0.1
+Podle typu AAL (adapční vrstva ATM):1
+Podle typu modulace
+Podle počtu znaků v textu
+Podle barvy textu na obrazovce
+
+222. čím je zajištěna synchronizace ATM buněk?:0.9:3.0:0.1
+Na výpočtu HEC záhlaví:1
+Na frekvenci zvukového signálu
+Na detekci časové prodlevy
+Na analýze obsahu buněk
+-new
+
+223. síťový prvek ATM je?:0.2:1.0:0.1
+Digitální rozvaděč, koncentrátor ATM, ústředna ATM:1
+Switch Ethernet, Modem DSL, Směrovač IP
+Směrovač IP, Switch Ethernet, koncentrátor ATM
+-old
+
+# 330. digitální rozvaděče ATM?:0.2:1.0:0.1
+# Vpi se může měnit, VCI zůstává:1
+# -old
+
+224. v ústředně ATM se?:-0.06666666666666668:-1.0:0.1
+Může se měnit VPI i VCI:1
+VPI se nemění, pouze se mění VCI
+VPI se nemění, pouze se mění VCI i NSAP
+-old
+
+225. významné vlastnosti SS7?:0.5:2.0:0.1
+Mezinárodně normovaný, pro různé komunikační služby:1
+Standardizovaný pouze pro telefonní hovory
+Používá pouze analogové přenosové kanály
+
+226. významné vlastnosti SS7 nepatří?:0.2:1.0:0.1
+Přenáší se v 16 kanálovém intervalu:1
+Mezinárodně normovaný
+pro různé komunikační služby
+
+227. (Signalizace) synchronizace SS7?:0.06666666666666665:-1.0:0.1
+Je meziústřednová:1
+Je pouze vnitroustřednová
+Je meziústřednová i mimoústřednová
+-new; možná to četl blbě, ale řekl sync
+
+228. signalizační body?:0.5:2.0:0.1
+SP (signaling point), STP (signaling transfer point), MTP (message transfer part), UP (user part):1
+TSP (transfer signaling point), SPT (signaling protocol transfer), MPP (message protocol part), CP (control part)
+SSP (signaling system point), SNT (signaling network transfer), MTT (message transfer tool), CP (communication part)
+SPP (signaling protocol point), SRT (signaling routing transfer), MTP (message transport part), DP (data part)
+-old
+
+229. způsoby provozu sdružený neboli asociativní?:0.5:2.0:0.1
+Signalizační trasa jde společně s datovou:1
+Signalizační trasa je oddělená od datové trasy, ale obě trasy jsou sdíleny mezi různými uživateli
+Signalizační trasa je vyhrazena pouze pro signalizaci
+-old
+
+230. způsoby provozu částečně sdružený neboli qvaziasociativní způsob je?:-0.13333333333333336:-2.0:0.1
+Že může jít signalizace jinudy než užitečná data:1
+Signalizační trasa je vždy oddělena od datové trasy, ale obě trasy jsou sdíleny mezi různými uživateli
+Signalizační trasa je vyhrazena pouze pro signalizaci
+-old
+
+231. uživatelské části mohou být?:0.9:3.0:0.1
+Telefonní, ISDN:1
+Mobilní, Kabelová
+Kabelová, Telefonní
+-old
+
+# 347. podle čeho se liší vytvoření struktury informačního pole buňky ATM?:0.0:0.0:0.1
+# Podle typu AAL:1
+# Podle typu modulace
+# Podle velikosti buňky
+# Podle délky trasy
+# -old
+
+# 348. na čem je zajištěna synchronizace ATM buněk?:0.0:0.0:0.1
+# Na výpočtu hec záhlaví:1
+# Na synchronizaci podle hvězdného času
+# Na analýze obsahu buněk
+# -old
+
+232. podstata SS7 je v tom?:0.033333333333333326:0.0:0.1
+Že signalizace má zvláštní kanály:1
+Že signalizace je přenášena po stejných kanálech jako uživatelská data
+Že signalizace je prováděna pouze pomocí hlasových hovorů
+-old
+
+233. jaké znáte způsoby provozu SS7?:1.1333333333333333:4.0:0.1
+Sdružený neboli asociativní, částečně sdružený neboli kvaziasociativní, nesdružený:1
+Sdružený a nesdružený
+Asynchronní a synchronní
+
+234. ADSL se zapojuje pomocí?:-0.06666666666666668:-1.0:0.1
+Krouceného měděného páru:1
+Optického vlákna
+Bezdrátového spojení
+
+235. k čemu slouží oddělovač (splitter)?:0.5:2.0:0.1
+Oddělení telefonního okruhu a okruhu datového:1
+Spojení telefonního okruhu s okruhem televize
+Rozdělení internetového signálu na více příjemců
+
+236. základní myšlenka DRT u ADSL?:0.0:0.0:0.1
+Rozdělení pásma do subkanálů, v nichž probíhá QAM na celé pásmo, pak přepočet pomocí FFT:1
+Přenos dat pomocí geostacionárních družic
+Komprese dat pomocí bezdrátové technologie Bluetooth
+
+237. mezi základní vlastnosti cyklické CP patří?:0.06666666666666665:-1.0:0.1
+Ochranný interval mezi sousedními přenášenými DMT symboly:1
+Zpětná kompatibilita s analogovými telefonními linkami
+Komprese dat pomocí adaptivního kódování
+-old
+
+238. mezi základní vlastnosti cyklické předpony CP nepatří?:-0.1:-1.0:0.1
+Cyklická předpona je zabezpečena cyklickým opakováním.:1
+Ochranný interval mezi sousedními přenášenými DMT symboly
+
+239. který z modelů TMN se používá?:-0.05:-1.0:0.1
+Funkční, informační, fyzicky, organizační:1
+Software, hardware, databáze, provozní
+Hlavní, vedlejší, záložní, hlavní
+Počítačový, mobilní, televizní, internetový
+
+240. funkční architektura TMN vytváří?:0.35000000000000003:1.0:0.1
+Makropole:1
+Mikropole
+Metro
+Regionální zóny
+
+241. informační architektura TMN vytváří?:0.15000000000000002:0.0:0.1
+Mikropole:1
+Makropole
+Lokální sítě
+Globální sítě
+
+242. fyzícká architektura TMN popisuje?:0.0:0.0:0.1
+Realizovaná rozhraní a příklady fyzických bloků:1
+Strukturu databáze a algoritmy pro vyhledávání
+Způsoby šifrování dat a bezpečnostní protokoly
+Klasifikaci internetových protokolů a jejich vlastnosti
+
+# 359. IPv6 oproti IPv4?:0.2:1.0:0.1
+# Specifikuje, které datagramy je možné zahodit dříve než jiné:1
+# Poskytuje vyšší úroveň zabezpečení a šifrování dat
+# Umožňuje dynamickou změnu přidělených IP adres
+# Zvyšuje rychlost a spolehlivost přenosu dat oproti IPv4
+
+243. služba typu best effort?:0.5:2.0:0.1
+Je založena na rovnoprávném přístupu všech uživatelů k síti:1
+Je založena na nerovnoprávném přístupu všech uživatelů k síti
+Vytváří skupinu uživatelů nazvaných best effort
+
+244. pro poskytovatele služby QoS se používá?:0.5:2.0:0.1
+Rezerva prostředků (kapacita) a priorizace.:1
+Zvýšená latence a snížená propustnost
+Plnění náhodných požadavků bez ohledu na jejich důležitost
+Statické přidělování prostředků bez ohledu na aktuální provozní podmínky
+
+245. co je to nativní mód?:-0.05:-1.0:0.1
+Přímé propojování sítových adres do ATM adres:1
+Virtuální provozní mód s rozhraním ATM
+Dynamické přiřazení adres v rámci protokolu ATM
+Statické mapování adres mezi sítěmi
+
+246. lan emulace při implementaci ip v ATM?:0.0:0.0:0.1
+Není možná podpora QoS není nutné měnit protokoly vyšších vrstev.:1
+Vyžaduje úplnou změnu topologie sítě
+Zvyšuje propustnost sítě
+Zjednodušuje konfiguraci směrovačů v síti
+
+247. při nativním modu?:0.2:1.0:0.1
+Je budoucí podpora QoS, vyžaduje změnu ovladačů.:1
+Zajišťuje lepší kompatibilitu s existujícími síťovými prvky
+Umožňuje provoz s vysokou latencí
+Snadněji integruje různé typy síťových protokolů
+
+248. pro typickou LANE platí?:0.55:2.0:0.1
+Koncové uzly mohou komunikovat mezi přepínací můstky a ATM pater.:1
+Propojuje různé typy LAN sítí
+Eliminuje nutnost použití sítí Ethernet
+Omezuje přenos dat mezi jednotlivými sítěmi
+
+249. základní funkci LANE je?:0.23333333333333334:1.0:0.1
+Umístit emulaci LANE nad ATM sítí.:1
+Propojit mobilní telefony s pevnými linkami pomocí satelitních spojů.
+Poskytovat bezdrátové připojení k internetu.
+
+250. LANE protokol způsobuje?:0.5:2.0:0.1
+Že ATM sít vypadá jako síť Ethernet či Node Query, jen je podstatně rychlejší.:1
+Zpomalení přenosové rychlosti sítě.
+Snížení účinnosti datových toků.
+
+251. ATM network interface?:0.0:0.0:0.1
+Používá standartní síťové ovladače jako by byl připojen ke klasické LAN, komunikuje standartními protokoly:1
+Je nekompatibilní s žádnými standardními síťovými zařízeními.
+Využívá výhradně bezdrátové připojení k síti.
+
+252. LANE emuluje?:0.2:1.0:0.1
+Jeden segment nebo okruh.:1
+Úplně nový druh síťového spojení.
+Přímé propojení mezi dvěma počítači
+
+253. HDSL pracuje na?:-0.13333333333333336:-2.0:0.1
+Dvou či třech metalických párech:1
+Optických vláknech.
+Koaxiálním kabelu.
+
+254. ADSL pracuje s?:0.23333333333333334:1.0:0.1
+Max přenosovou rychlosti 2 Mbps:1
+Průměrnou přenosovou rychlostí 100 Mbps
+Minimální přenosovou rychlostí 10 Gbps
+
+255. HDSL má?:0.5:2.0:0.1
+Upstream a downstream se stejnou přenosovou rychlosti:1
+Upstream s vyšší přenosovou rychlostí než downstream
+Downstream s vyšší přenosovou rychlostí než upstream
+
+256. hlavní myšlenka ADSL?:0.5:2.0:0.1
+Každá služba v jiném frekvenčním pásu.:1
+Přidávání nových datových kanálů
+Komprese dat při přenosu
+
+257. splitr u ADSL?:0.2:1.0:0.1
+Filtr k oddělení hovoru u přenosů dat.:1
+Zařízení pro zvýšení rychlosti internetu
+Anténa pro zesílení signálu
+
+258. oddělení směru přenosu se u ADSL používá?:0.23333333333333334:1.0:0.1
+FDM (Frequency Division Multiplexing), EC (Echo Cancellation):1
+TDM (Time Division Multiplexing), FEC (Forward Error Correction)
+PAM (Pulse Amplitude Modulation), QAM (Quadrature Amplitude Modulation)
+
+259. U ADSL se běžně používá?:0.9:3.0:0.1
+Modulace DMT (discrete multi-tone) modulace s více nosnými (max. 256):1
+Modulace FM (Frequency Modulation) s jednou nosnou
+Modulace AM (Amplitude Modulation) s více nosnými
+-new
+
+260. Šířka subkanálu u dmt s 256 nosnými je?:0.2:1.0:0.1
+4,3125 khz, přičemž každému subkanálu odpovídá příslušná nosná frekvence.:1
+2,5 kHz, přičemž každému subkanálu odpovídá příslušná nosná frekvence
+10 kHz, přičemž každému subkanálu odpovídá příslušná nosná frekvence
+-new
+
+261. Ve spektru ADSL se nachází?:0.7666666666666668:2.0:0.1
+Analogový telefonní kanál:1
+Upstream a downstream stejných přenosových rychlostí
+Digitalizovaný telefonní kanál
+-new
+
+262. Ve spektru ADSL se nachází?:-0.04000000000000001:-1.0:0.1
+Upstream:1
+Lomová frekvence
+Modulační šířka
+Data centra
+Vysokofrekvenční signály
+-new
+
+263. Ve spektru ADSL se nachází?:0.2:1.0:0.1
+Downstream:1
+Synchronizační signály
+Reflektivita
+Frekvenční filtry
+Komprimované datové bloky
+-new
+
+264. Přeslechy FEXT a NEXT?:-0.06666666666666668:-1.0:0.1
+Vznikají ve vícežilových kabelech:1
+Nejčastěji se vyskytují ve světlovodných kabelech
+Jsou způsobeny elektromagnetickým zářením ze satelitních vysílačů
+Jsou vlastní pro jednožilové kabely
+Jsou důsledkem atmosférických jevů
+Vznikají při elektrostatickém výboji
+-new
+
+265. R-S (NX) kód je?:0.16666666666666669:0.0:0.1
+Kód korekční na zabezpečení po blocích:1
+Kód pro komprimaci dat
+Metoda šifrování dat
+Systém pro synchronizaci dat
+Protokol pro síťovou komunikaci
+Algoritmus pro analýzu signálů
+-new
+
+266. TC (trellis code) patří?:0.26666666666666666:1.0:0.1
+Do skupiny stromových konvolučních kódů.:1
+Mezi kódovací techniky pro zabezpečení datových přenosů
+K metodám digitálního zpracování signálů
+K technikám komprese obrazu
+K algoritmům pro optimalizaci sítí
+K algoritmům pro vyhledávání dat
+-new
+
+267. TC (trellis code)?:0.2:1.0:0.1
+Posloupnost dat zajišťuje spojitě (né po blocích jako R-S):1
+Mezi kódovací techniky pro zabezpečení datových přenosů
+K metodám digitálního zpracování signálů
+K technikám komprese obrazu
+K algoritmům pro optimalizaci sítí
+K algoritmům pro vyhledávání dat
+-new
+
+268. TCM (trellis coded modulation)?:0.5:2.0:0.1
+Představuje spojení konvolučního kódování s kvadraturní ampl. modulací QAM.:1
+Je metoda modulace založená na rotační symetrii signálu
+Používá se v mobilních sítích pro přenos hlasu a dat
+-new
+
+269. Viterbiho kódování?:-0.033333333333333354:-1.0:0.1
+Je založeno na principu pravděpodobnostního kódování po úsecích.:1
+Je založeno na principu výběru nejpravděpodobnější posloupnosti kódových slov.
+Je metoda šifrování dat pomocí kvantové kryptografie.
+-new
+
+270. cyklickou příponu CP tvoří?:0.5:2.0:0.1
+Několik posledních bloků symbolů, které jsou zkopírovány na začátek symbolu:1
+Náhodně vygenerovaná data, která jsou přidána na konec symbolu
+Speciální sekvence bitů, která je použita jako kontrolní signál před přenosem dat
+-old
+
+271. základní myšlenka potlačení ozvěny EC?:0.0:0.0:0.1
+Vypočítanou ozvěnu odečteme od součtu signálu + ozvěna – obdržíme signál:1
+Je založena na odstranění časových zpoždění v signálu
+Používá se k získání zpětné vazby od přijímače k vysílači pro lepší regulaci signálu
+-old
+
+272. rozdíl mezi isdn a ADSL?:0.5:2.0:0.1
+Isdn je digitální technologie i pro telefon; Adsl má telefon analogový, digitální jsou data:1
+ISDN používá optická vlákna pro přenos dat, zatímco ADSL využívá kabelovou infrastrukturu
+ISDN umožňuje vyšší rychlosti přenosu dat než ADSL
+-old
+
+273. ATM vybavený network interface card s implementovanou LANE funkcí?:0.2:1.0:0.1
+Komunikuje standardními síťovými protokoly jako by byl připojen ke klasické LAN:1
+Přenáší data pomocí sondujících sond
+Používá analogové spojení pro přenos dat
+Omezuje přenos dat pouze na textové zprávy
+-old
+
+274. R-S je kódem?:0.9:3.0:0.1
+Korekčním, zabezpečení se provádí po blocích:1
+Komunikačním, zabezpečení se provádí po jednotlivých bitech
+Enkodérem, zabezpečení se provádí pomocí zvýšení rychlosti přenosu dat
+Dekodérem, zabezpečení se provádí snížením rychlosti přenosu dat
+
+275. HDSL rychlost ve směru upload/download?:0.55:2.0:0.1
+Je stejná v obou směrech:1
+Je vyšší ve směru upload než ve směru download
+Je vyšší ve směru download než ve směru upload
+Rychlost závisí na vzdálenosti mezi zařízeními
+
+276. Mezi možnosti ATM nepatří?:0.2:1.0:0.1
+synchronní mapování do rámce VC-4
+synchronní mapování do rámce VC-3:1
+-old, VC-4 patří
+
+277. na jaké síťové architektuře je založen internet?:-0.04000000000000001:-1.0:0.1
+TCP/IP:1
+OSI/ISO
+HTTP/HTTPS
+DNS
+FTP
+
+278. co je to PAD?:0.06:0.0:0.1
+Rozhraní umožňující připojení znakových terminálů do paketové veřejné datové sítě:1
+Zařízení pro digitalizaci obrazu a zvuku
+Přístroj pro generování kryptografických klíčů
+Jednotka pro zvýšení rychlosti internetového připojení
+Jednotka pro zabezpečení datových přenosů
+
+279. co znamená, když je aplikace (protokol) typu klient/server?:0.5:2.0:0.1
+Programy běží na serveru pouze tehdy, když o to požádá klient
+Část aplikace – serverový program, běží nepřetržitě na serveru, klientský program se spouští dle potřeby:1
+Část klientský program - se spouští podle potřeby uživatele na uživatelské stanici
+Každý program běží na počítači připojeném do sítě
+
+280. jaká je v současné době nejznámější a nejpoužívanější služba internetu?:0.2:1.0:0.1
+WWW:1
+E-mail
+Online hry
+-old
+
+281. doporučení x.25 definuje?:-0.13333333333333336:-1.0:0.1
+Jak má probíhat komunikace mezi koncovým zařízením (DTE) a ukončovacím z. (dce):1
+Jak má probíhat komunikace mezi dvěma koncovými zařízeními (DTE)
+Jak má probíhat komunikace mezi dvěma ukončovacími zařízeními (DCE)
+
+282. při jakém způsobu přenosu informace je doba pobytu zprávy v síti nejkratší?:0.5:2.0:0.1
+Komutace paketů:1
+Komutace okruhů
+Komutace buněk
+
+283. jaké dva základní způsoby spojení uživatelů sítě z hlediska topologie se používají?:0.2:1.0:0.1
+Dvoudobé spoje a kanály se všesměrovým šířením (sběrnice):1
+Hvězdicová síť a kruhová síť
+Lineární síť a kaskádová síť
+-old
+
+284. která ze služeb není poskytována sítěmi MAN?:-0.10000000000000003:-2.0:0.1
+Služby pro připojení jednotlivých účastníků:1
+Datové služby pro podniky
+Videohovory mezi účastníky
+
+285. LAN sítě jsou?:0.5:2.0:0.1
+Sítě menší rozlehlosti, které propojují jednotlivé účastníky:1
+Sítě velké rozlehlosti, které propojují jednotlivé účastníky
+Sítě rozprostřené na celém světě
+
+286. co je datagram?:0.2:1.0:0.1
+Nespolehlivá nespojovaná služba:1
+Spolehlivá spojovaná služba
+Spolehlivá nespojovaná služba
+
+287. co je to virtuální spojení?:0.2:1.0:0.1
+Před zahájením přenosu se zřídí spojení a data se přenáší v paketech s adresou tohoto zřízeného spojení.:1
+Přenos dat bez předchozího zřízení spojení
+Přenos dat pomocí optického vlákna
+
+288. Reaktivní režim v SDN sítích je špecifický tým že:
+OpenFlow tabuľky jsou z počatku prazdne:1
+nevim
+OpenFlow tabuľky jsou z počatku kompletní
+OpenFlow tabuľky SDN nevyužíva
+
+289. Pasivní optické site využívame vždy ve spojení s metodou zakončení optického vlákna typu:
+Fiber to the curb (FTTC)
+nevim 
+Fiber to the home (FTTH):1
+Fiber to the building (FTTB)
+
+290. Pasivní optická síť Super-PON:
+zesilovac je umísten u každé koncové jednotky ONU
+nevim
+nevyužíva zesilovace:1
+v rámci CO umožňuje využíti optických zesilovačů
+
+291. Konečný stav pre prenos data v obou směrech je pro aktivovanou koncovou jednotku ONU:
+serial number stav (O2)
+nevim
+inicializační stav (01)
+operační stav (O5):1
+
+292. Nevýhodu pro prenos dat v pasivních optických sítích je:
+nutnost řízení obou směru
+nevim
+nutnost řízení vzestupneho (upstream) smeru:1
+nutnost řízení seatupného (downstream) smeru
+
+293. Technické funkce fungování sítí IPv6 a IPv4:
+Zůstávají stejne, obe síte jsou provozovány současne:1
+nevim
+jsou odlišné, síte nemohou být provozovány současne
+jsou odlišné, ale stejný adresní formát umožňuje snadnou konverzi
+
+294. Navýšení prenosové rýchlosti u standardu NG-PON je docílené:
+vlnovým delením - každá vlnová délka přěnáší 10Gbit/s:1
+nevim
+pokročilým modulačním formátem
+časovým delením v sestupném směru
+
+295. Služby Best-Effort představují:
+typ služby s maximálnym úsilím o přenos v síti bez speciálního nastavení QoS:1
+nevim
+aplikace si samy určují nároky na prenos
+typ služby s maximálnym úsilím o přenos v síti se speciálním nastavením QoS
